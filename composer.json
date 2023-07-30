@@ -1,5 +1,5 @@
 {
-  "name": "LotsofPixels/bottomdescription-magento2",
+  "name": "lotsofpixels/bottomdescription-magento2",
   "description": "Add an extra description field on category page",
   "require": {
     "php": "~7.4.0|~8.0|~8.1"
